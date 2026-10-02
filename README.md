@@ -1,3 +1,3 @@
 # SATI-Project-demo
-This is mt first Repository
+This is my first git Repository
 Author-Vishal lodhi
