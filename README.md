@@ -1,4 +1,4 @@
 # SATI-Project-demo
 This is my first git Repository
 <br>
-Author-Vishal lodhi
+Author-Vishal (SATI)
